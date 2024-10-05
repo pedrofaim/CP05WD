@@ -24,7 +24,7 @@ O projeto é organizado em vários componentes, incluindo:
 - **Footer**: Contém informações de contato e links para redes sociais.
 
 ## Autores
- **Nicolas Ferreira RM557962**:
- **Augusto Rocha RM556316**:
- **Pedro Faim RM557440**:
+ **Nicolas Ferreira RM557962**;
+ **Augusto Rocha RM556316**;
+ **Pedro Faim RM557440**.
   
