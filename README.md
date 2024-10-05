@@ -25,7 +25,7 @@ O projeto é organizado em vários componentes, incluindo:
 
 ## Como Executar o Projeto
 
-1. **Clone o repositório**:
+1. **Autores**:
    ```bash
    git clone https://github.com/seu-usuario/gourmet-on.git
    cd gourmet-on
