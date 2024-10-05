@@ -23,9 +23,8 @@ O projeto é organizado em vários componentes, incluindo:
 - **ContactForm**: Um formulário para coletar e-mails de usuários para futuras campanhas.
 - **Footer**: Contém informações de contato e links para redes sociais.
 
-## Como Executar o Projeto
-
-1. **Autores**:
-   ```bash
-   git clone https://github.com/seu-usuario/gourmet-on.git
-   cd gourmet-on
+## Autores
+ **Nicolas Ferreira RM557962**:
+ **Augusto Rocha RM556316**:
+ **Pedro Faim RM557440**:
+  
