@@ -1,4 +1,3 @@
-# CP05WD
 # GourmetOn - Landing Page
 
 Bem-vindo ao projeto da landing page do **GourmetOn**, um aplicativo de delivery de comida que oferece uma experiência incrível para os amantes da gastronomia. Esta página foi desenvolvida utilizando React, Styled Components e a API Spoonacular para fornecer receitas deliciosas.
